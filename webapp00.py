@@ -20,10 +20,10 @@ st.write(text)
 #Escrever(db)
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("ta mole ainda")
+st.title("Meu primeiro site")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Hejheheheh susana teste! Prof. Massaki")
+st.header("Aberto para testes!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
