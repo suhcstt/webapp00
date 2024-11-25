@@ -9,3 +9,5 @@ plotly.express
 ACTlib01
 wordcloud
 pdfquery
+seaborn
+oprnpyx1
